@@ -1,0 +1,8 @@
+{
+  "servers": [
+    {
+      "name": "My Private Server",
+      "address": "https://onrender.com"
+    }
+  ]
+}
